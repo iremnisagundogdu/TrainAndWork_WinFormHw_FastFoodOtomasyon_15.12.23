@@ -1,0 +1,32 @@
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC Müşteri\KfcCustomerScreen\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC Müşteri\KfcCustomerScreen\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC Müşteri\KfcCustomerScreen\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC Müşteri\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC Müşteri\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC Müşteri\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC Müşteri\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC Müşteri\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC Müşteri\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC Müşteri\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CustomerScreenForm.resources
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CustomerScreenForm.resources
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ADEMKARAGÜLLE\Desktop\KFC-MAIN\KfcCustomerScreen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
